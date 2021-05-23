@@ -3,10 +3,10 @@ Data Exploration Project – R and Excel
 ## 1. Introduction
 The number of people commits suicide has constantly appeared on many social media, web pages or television news, therefore, a simple question such as ‘are there a lot more people end their lives by suicide commitments?’ popped up in my head. According to the advance of data science, data visualization has become one of the key tools in making a big picture and analysing choices for human, consequently, the following question will be answered by data visualization approach.
 
-• Which part of the world have the highest and lowest suicide from past to present?
-• How does generation has an impact on suicide commitment?
-• In what age range people are likely to commit suicide? 
-• Does growth in GDP reflect the lower rate of suicide?
+- Which part of the world have the highest and lowest suicide from past to present?
+- How does generation has an impact on suicide commitment?
+- In what age range people are likely to commit suicide? 
+- Does growth in GDP reflect the lower rate of suicide?
 
 In order to answer the questions, R and excel are implemented to check the dataset, clean unformatted data into an appropriate form and deal with a missing value. For the sake of visualization, R and Tableau are utilised to illustrate and reflect the answer to the question.
 
