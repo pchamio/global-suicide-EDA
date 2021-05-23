@@ -2,10 +2,14 @@
 Data Exploration Project – R and Excel
 ## 1. Introduction
 The number of people commits suicide has constantly appeared on many social media, web pages or television news, therefore, a simple question such as ‘are there a lot more people end their lives by suicide commitments?’ popped up in my head. According to the advance of data science, data visualization has become one of the key tools in making a big picture and analysing choices for human, consequently, the following question will be answered by data visualization approach.
+
 • Which part of the world have the highest and lowest suicide from past to present?
 • How does generation has an impact on suicide commitment?
-• In what age range people are likely to commit suicide? • Does growth in GDP reflect the lower rate of suicide?
+• In what age range people are likely to commit suicide? 
+• Does growth in GDP reflect the lower rate of suicide?
+
 In order to answer the questions, R and excel are implemented to check the dataset, clean unformatted data into an appropriate form and deal with a missing value. For the sake of visualization, R and Tableau are utilised to illustrate and reflect the answer to the question.
+
 ## 2. Data Wrangling
 The dataset needs some cleaning before visualization by using R and excel. This project uses the dataset from Kaggle with 27820 rows and 12 attributes (Master.csv, https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016). The processing of this step is as follow:
 Format Data Type: Use R to transform the type of attributes into applicable data type, for example, changing the data type of factor into integer or number.
