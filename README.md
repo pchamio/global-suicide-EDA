@@ -13,7 +13,7 @@ In order to answer the questions, R and excel are implemented to check the datas
 ## 2. Data Wrangling
 The dataset needs some cleaning before visualization by using R and excel. This project uses the dataset from Kaggle with 27820 rows and 12 attributes (Master.csv, https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016). The processing of this step is as follow:
 
-*Format Data Type:* Use R to transform the type of attributes into applicable data type, for example, changing the data type of factor into integer or number.
+*Format Data Type:* Use R to transform the type of attributes into applicable data type, for example, changing the data type of factor into integer or number. /n
 *Convert Meaningless Data Attribute:* Use R to change the meaningless name of attribute since some of the data set are inconsistent.
 "Split and Delete Useless Data Attribute:* Use R to remove unnecessary attribute to make the data set clean and simple to implement.
 *Deal with insufficient data:* Use excels to see the trend and filter each category of the attribute in the data set if the amount of data is sufficient then applied R to eliminate insignificant data.
