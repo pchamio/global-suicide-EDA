@@ -23,8 +23,7 @@ The dataset needs some cleaning before visualization by using R and excel. This 
 For data checking, use R to show the overview of data and find missing value then excel to check outlier in each category to make it ready for data visualization.\
 *Overview of attribute and data type:* Use the function summary() in R to show data overview
 
-![alt text](https://user-images.githubusercontent.com/70103737/119267587-ad7d7880-bc32-11eb-8390-e570affb7db9.png "Title Text")
-![image](https://user-images.githubusercontent.com/70103737/119267587-ad7d7880-bc32-11eb-8390-e570affb7db9.png)
+![alt text](https://user-images.githubusercontent.com/70103737/119267587-ad7d7880-bc32-11eb-8390-e570affb7db9.png "Figure 1")
 
 *Missing value:* As shown in Figure 1, there is no missing value or null since the data has been cleaned as described in the last section.\
 *Outliers:* Use excel to seeing whether there is an outlier on each category\
