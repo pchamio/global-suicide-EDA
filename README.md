@@ -15,7 +15,7 @@ The dataset needs some cleaning before visualization by using R and excel. This 
 
 *Format Data Type:* Use R to transform the type of attributes into applicable data type, for example, changing the data type of factor into integer or number.\
 *Convert Meaningless Data Attribute:* Use R to change the meaningless name of attribute since some of the data set are inconsistent.\
-"Split and Delete Useless Data Attribute:* Use R to remove unnecessary attribute to make the data set clean and simple to implement.\
+*Split and Delete Useless Data Attribute:* Use R to remove unnecessary attribute to make the data set clean and simple to implement.\
 *Deal with insufficient data:* Use excels to see the trend and filter each category of the attribute in the data set if the amount of data is sufficient then applied R to eliminate insignificant data.\
 *Tidy Data Frame:* Use R to classify an untidy set of data into the proper class in the case that they are not such as class of age range, generation and gender.\
 ## 3. Data Checking
