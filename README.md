@@ -33,9 +33,12 @@ After both processes, data wrangling and data cleaning, have been done, the data
 In this step, the data set is visualized in different ways according to the question and to explore interesting patterns and trends on suitable visual by mainly using R. There are five parts consisted below on this section which the first thing is seeing the general trend of the data.
 ### 4.1 Global trend of Population, Suicide Rate and GDP per Capita
 ![alt text](https://user-images.githubusercontent.com/70103737/119267607-bd955800-bc32-11eb-88c4-f0454d7de025.png "Figure 2")
+
 As you can see in Figure 2, the number of global populations rose sharply from the beginning then gradually increased around 1994 to 2002. After that reached its peak in 2010 and the number started falling from 2010 onward. Therefore, it can be concluded that the population keep decreasing.
+
 ![alt text](https://user-images.githubusercontent.com/70103737/119267623-c8e88380-bc32-11eb-92a6-683bbf19f943.png "Figure 3")
 From Figure 3, suicide number increased significantly from 1985 onward and reached a peak when there was the highest suicide rate approximately in 1998. There is a convex curve after its peak and then the suicide rate gradually went down.
+
 ![alt text](https://user-images.githubusercontent.com/70103737/119267629-d1d95500-bc32-11eb-9524-992d9d8cb2f5.png "Figure 4")
 As seen from Figure 4, GDP per capita steadily went up in the beginning and there is a sudden growth from 2002 to 2008. The GDP drop and increased again after 2010.
 ### 4.2 World part and the Suicide
