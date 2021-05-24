@@ -1,5 +1,5 @@
 # global-suicide-EDA
-Data Exploration Project – R and Excel
+Data Exploration Project – R, Tableau and Excel
 ## 1. Introduction
 The number of people commits suicide has constantly appeared on many social media, web pages or television news, therefore, a simple question such as ‘are there a lot more people end their lives by suicide commitments?’ popped up in my head. According to the advance of data science, data visualization has become one of the key tools in making a big picture and analysing choices for human, consequently, the following question will be answered by data visualization approach.
 
