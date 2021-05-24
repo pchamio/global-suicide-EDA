@@ -46,6 +46,7 @@ As seen from Figure 4, GDP per capita steadily went up in the beginning and ther
 
 ### 4.2 World part and the Suicide
 This section will answer the first question which is ‘Which part of the world have the highest and lowest suicide rate form past to the present?’. To answer this question, we need to assign a continent for each country in the dataset since there is no determinant that could define the part. The world is separated into five continents and each continent has the colour as in the following:
+
 ![alt text](https://user-images.githubusercontent.com/70103737/119267644-e289cb00-bc32-11eb-9db4-4ffe26928f4e.png "Figure 5")
 
 - Dark Blue represents Africa
